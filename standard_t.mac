@@ -1,0 +1,440 @@
+/control/verbose 0
+/control/saveHistory
+/run/verbose 0
+/control/cout/ignoreThreadsExcept 0
+/event/verbose 0
+/tracking/verbose 0
+
+/LiDiffusionCode/geometry/setSampleWidth     7 mm
+/LiDiffusionCode/geometry/setSampleDepth     500 um
+/LiDiffusionCode/geometry/setSubstrateWidth  7 mm
+/LiDiffusionCode/geometry/setSubstrateDepth  500 um
+/LiDiffusionCode/geometry/setDetectorWidth   0.4 mm
+/LiDiffusionCode/geometry/setDetectorDepth   0.1 mm
+/LiDiffusionCode/geometry/setDetectorRadious 5.72 mm   #5.2x1.1
+
+/LiDiffusionCode/geometry/setTime 0.01 s
+/LiDiffusionCode/geometry/LiIonsPerPulse 1000000
+/LiDiffusionCode/geometry/setBeamOnTime 1 s
+/LiDiffusionCode/geometry/diagnostics 1
+/LiDiffusionCode/geometry/setFilename TiO2
+/LiDiffusionCode/geometry/setSRIMfilename TiO2_10keV
+/LiDiffusionCode/geometry/setDiffusionRate 1e-11
+/LiDiffusionCode/geometry/setBoundaryCondition reflective
+
+
+
+/LiDiffusionCode/geometry/update
+
+/run/beamOn 10000000
+
+
+/LiDiffusionCode/geometry/setSampleWidth     7 mm
+/LiDiffusionCode/geometry/setSampleDepth     500 um
+/LiDiffusionCode/geometry/setSubstrateWidth  7 mm
+/LiDiffusionCode/geometry/setSubstrateDepth  500 um
+/LiDiffusionCode/geometry/setDetectorWidth   0.4 mm
+/LiDiffusionCode/geometry/setDetectorDepth   0.1 mm
+/LiDiffusionCode/geometry/setDetectorRadious 5.72 mm   #5.2x1.1
+
+/LiDiffusionCode/geometry/setTime 0.1 s
+/LiDiffusionCode/geometry/LiIonsPerPulse 1000000
+/LiDiffusionCode/geometry/setBeamOnTime 1 s
+/LiDiffusionCode/geometry/diagnostics 1
+/LiDiffusionCode/geometry/setFilename TiO2
+/LiDiffusionCode/geometry/setSRIMfilename TiO2_10keV
+/LiDiffusionCode/geometry/setDiffusionRate 1e-11
+/LiDiffusionCode/geometry/setBoundaryCondition reflective
+
+
+
+/LiDiffusionCode/geometry/update
+
+/run/beamOn 10000000
+
+
+/LiDiffusionCode/geometry/setSampleWidth     7 mm
+/LiDiffusionCode/geometry/setSampleDepth     500 um
+/LiDiffusionCode/geometry/setSubstrateWidth  7 mm
+/LiDiffusionCode/geometry/setSubstrateDepth  500 um
+/LiDiffusionCode/geometry/setDetectorWidth   0.4 mm
+/LiDiffusionCode/geometry/setDetectorDepth   0.1 mm
+/LiDiffusionCode/geometry/setDetectorRadious 5.72 mm   #5.2x1.1
+
+/LiDiffusionCode/geometry/setTime 0.2 s
+/LiDiffusionCode/geometry/LiIonsPerPulse 1000000
+/LiDiffusionCode/geometry/setBeamOnTime 1 s
+/LiDiffusionCode/geometry/diagnostics 1
+/LiDiffusionCode/geometry/setFilename TiO2
+/LiDiffusionCode/geometry/setSRIMfilename TiO2_10keV
+/LiDiffusionCode/geometry/setDiffusionRate 1e-11
+/LiDiffusionCode/geometry/setBoundaryCondition reflective
+
+
+
+/LiDiffusionCode/geometry/update
+
+/run/beamOn 10000000
+
+
+/LiDiffusionCode/geometry/setSampleWidth     7 mm
+/LiDiffusionCode/geometry/setSampleDepth     500 um
+/LiDiffusionCode/geometry/setSubstrateWidth  7 mm
+/LiDiffusionCode/geometry/setSubstrateDepth  500 um
+/LiDiffusionCode/geometry/setDetectorWidth   0.4 mm
+/LiDiffusionCode/geometry/setDetectorDepth   0.1 mm
+/LiDiffusionCode/geometry/setDetectorRadious 5.72 mm   #5.2x1.1
+
+/LiDiffusionCode/geometry/setTime 0.3 s
+/LiDiffusionCode/geometry/LiIonsPerPulse 1000000
+/LiDiffusionCode/geometry/setBeamOnTime 1 s
+/LiDiffusionCode/geometry/diagnostics 1
+/LiDiffusionCode/geometry/setFilename TiO2
+/LiDiffusionCode/geometry/setSRIMfilename TiO2_10keV
+/LiDiffusionCode/geometry/setDiffusionRate 1e-11
+/LiDiffusionCode/geometry/setBoundaryCondition reflective
+
+
+
+/LiDiffusionCode/geometry/update
+
+/run/beamOn 10000000
+
+
+/LiDiffusionCode/geometry/setSampleWidth     7 mm
+/LiDiffusionCode/geometry/setSampleDepth     500 um
+/LiDiffusionCode/geometry/setSubstrateWidth  7 mm
+/LiDiffusionCode/geometry/setSubstrateDepth  500 um
+/LiDiffusionCode/geometry/setDetectorWidth   0.4 mm
+/LiDiffusionCode/geometry/setDetectorDepth   0.1 mm
+/LiDiffusionCode/geometry/setDetectorRadious 5.72 mm   #5.2x1.1
+
+/LiDiffusionCode/geometry/setTime 0.4 s
+/LiDiffusionCode/geometry/LiIonsPerPulse 1000000
+/LiDiffusionCode/geometry/setBeamOnTime 1 s
+/LiDiffusionCode/geometry/diagnostics 1
+/LiDiffusionCode/geometry/setFilename TiO2
+/LiDiffusionCode/geometry/setSRIMfilename TiO2_10keV
+/LiDiffusionCode/geometry/setDiffusionRate 1e-11
+/LiDiffusionCode/geometry/setBoundaryCondition reflective
+
+
+
+/LiDiffusionCode/geometry/update
+
+/run/beamOn 10000000
+
+
+/LiDiffusionCode/geometry/setSampleWidth     7 mm
+/LiDiffusionCode/geometry/setSampleDepth     500 um
+/LiDiffusionCode/geometry/setSubstrateWidth  7 mm
+/LiDiffusionCode/geometry/setSubstrateDepth  500 um
+/LiDiffusionCode/geometry/setDetectorWidth   0.4 mm
+/LiDiffusionCode/geometry/setDetectorDepth   0.1 mm
+/LiDiffusionCode/geometry/setDetectorRadious 5.72 mm   #5.2x1.1
+
+/LiDiffusionCode/geometry/setTime 0.5 s
+/LiDiffusionCode/geometry/LiIonsPerPulse 1000000
+/LiDiffusionCode/geometry/setBeamOnTime 1 s
+/LiDiffusionCode/geometry/diagnostics 1
+/LiDiffusionCode/geometry/setFilename TiO2
+/LiDiffusionCode/geometry/setSRIMfilename TiO2_10keV
+/LiDiffusionCode/geometry/setDiffusionRate 1e-11
+/LiDiffusionCode/geometry/setBoundaryCondition reflective
+
+
+
+/LiDiffusionCode/geometry/update
+
+/run/beamOn 10000000
+
+
+/LiDiffusionCode/geometry/setSampleWidth     7 mm
+/LiDiffusionCode/geometry/setSampleDepth     500 um
+/LiDiffusionCode/geometry/setSubstrateWidth  7 mm
+/LiDiffusionCode/geometry/setSubstrateDepth  500 um
+/LiDiffusionCode/geometry/setDetectorWidth   0.4 mm
+/LiDiffusionCode/geometry/setDetectorDepth   0.1 mm
+/LiDiffusionCode/geometry/setDetectorRadious 5.72 mm   #5.2x1.1
+
+/LiDiffusionCode/geometry/setTime 0.6 s
+/LiDiffusionCode/geometry/LiIonsPerPulse 1000000
+/LiDiffusionCode/geometry/setBeamOnTime 1 s
+/LiDiffusionCode/geometry/diagnostics 1
+/LiDiffusionCode/geometry/setFilename TiO2
+/LiDiffusionCode/geometry/setSRIMfilename TiO2_10keV
+/LiDiffusionCode/geometry/setDiffusionRate 1e-11
+/LiDiffusionCode/geometry/setBoundaryCondition reflective
+
+
+
+/LiDiffusionCode/geometry/update
+
+/run/beamOn 10000000
+
+
+/LiDiffusionCode/geometry/setSampleWidth     7 mm
+/LiDiffusionCode/geometry/setSampleDepth     500 um
+/LiDiffusionCode/geometry/setSubstrateWidth  7 mm
+/LiDiffusionCode/geometry/setSubstrateDepth  500 um
+/LiDiffusionCode/geometry/setDetectorWidth   0.4 mm
+/LiDiffusionCode/geometry/setDetectorDepth   0.1 mm
+/LiDiffusionCode/geometry/setDetectorRadious 5.72 mm   #5.2x1.1
+
+/LiDiffusionCode/geometry/setTime 0.7 s
+/LiDiffusionCode/geometry/LiIonsPerPulse 1000000
+/LiDiffusionCode/geometry/setBeamOnTime 1 s
+/LiDiffusionCode/geometry/diagnostics 1
+/LiDiffusionCode/geometry/setFilename TiO2
+/LiDiffusionCode/geometry/setSRIMfilename TiO2_10keV
+/LiDiffusionCode/geometry/setDiffusionRate 1e-11
+/LiDiffusionCode/geometry/setBoundaryCondition reflective
+
+
+
+/LiDiffusionCode/geometry/update
+
+/run/beamOn 10000000
+
+
+/LiDiffusionCode/geometry/setSampleWidth     7 mm
+/LiDiffusionCode/geometry/setSampleDepth     500 um
+/LiDiffusionCode/geometry/setSubstrateWidth  7 mm
+/LiDiffusionCode/geometry/setSubstrateDepth  500 um
+/LiDiffusionCode/geometry/setDetectorWidth   0.4 mm
+/LiDiffusionCode/geometry/setDetectorDepth   0.1 mm
+/LiDiffusionCode/geometry/setDetectorRadious 5.72 mm   #5.2x1.1
+
+/LiDiffusionCode/geometry/setTime 0.8 s
+/LiDiffusionCode/geometry/LiIonsPerPulse 1000000
+/LiDiffusionCode/geometry/setBeamOnTime 1 s
+/LiDiffusionCode/geometry/diagnostics 1
+/LiDiffusionCode/geometry/setFilename TiO2
+/LiDiffusionCode/geometry/setSRIMfilename TiO2_10keV
+/LiDiffusionCode/geometry/setDiffusionRate 1e-11
+/LiDiffusionCode/geometry/setBoundaryCondition reflective
+
+
+
+/LiDiffusionCode/geometry/update
+
+/run/beamOn 10000000
+
+
+/LiDiffusionCode/geometry/setSampleWidth     7 mm
+/LiDiffusionCode/geometry/setSampleDepth     500 um
+/LiDiffusionCode/geometry/setSubstrateWidth  7 mm
+/LiDiffusionCode/geometry/setSubstrateDepth  500 um
+/LiDiffusionCode/geometry/setDetectorWidth   0.4 mm
+/LiDiffusionCode/geometry/setDetectorDepth   0.1 mm
+/LiDiffusionCode/geometry/setDetectorRadious 5.72 mm   #5.2x1.1
+
+/LiDiffusionCode/geometry/setTime 0.9 s
+/LiDiffusionCode/geometry/LiIonsPerPulse 1000000
+/LiDiffusionCode/geometry/setBeamOnTime 1 s
+/LiDiffusionCode/geometry/diagnostics 1
+/LiDiffusionCode/geometry/setFilename TiO2
+/LiDiffusionCode/geometry/setSRIMfilename TiO2_10keV
+/LiDiffusionCode/geometry/setDiffusionRate 1e-11
+/LiDiffusionCode/geometry/setBoundaryCondition reflective
+
+
+
+/LiDiffusionCode/geometry/update
+
+/run/beamOn 10000000
+
+
+/LiDiffusionCode/geometry/setSampleWidth     7 mm
+/LiDiffusionCode/geometry/setSampleDepth     500 um
+/LiDiffusionCode/geometry/setSubstrateWidth  7 mm
+/LiDiffusionCode/geometry/setSubstrateDepth  500 um
+/LiDiffusionCode/geometry/setDetectorWidth   0.4 mm
+/LiDiffusionCode/geometry/setDetectorDepth   0.1 mm
+/LiDiffusionCode/geometry/setDetectorRadious 5.72 mm   #5.2x1.1
+
+/LiDiffusionCode/geometry/setTime 1 s
+/LiDiffusionCode/geometry/LiIonsPerPulse 1000000
+/LiDiffusionCode/geometry/setBeamOnTime 1 s
+/LiDiffusionCode/geometry/diagnostics 1
+/LiDiffusionCode/geometry/setFilename TiO2
+/LiDiffusionCode/geometry/setSRIMfilename TiO2_10keV
+/LiDiffusionCode/geometry/setDiffusionRate 1e-11
+/LiDiffusionCode/geometry/setBoundaryCondition reflective
+
+
+
+/LiDiffusionCode/geometry/update
+
+/run/beamOn 10000000
+
+
+/LiDiffusionCode/geometry/setSampleWidth     7 mm
+/LiDiffusionCode/geometry/setSampleDepth     500 um
+/LiDiffusionCode/geometry/setSubstrateWidth  7 mm
+/LiDiffusionCode/geometry/setSubstrateDepth  500 um
+/LiDiffusionCode/geometry/setDetectorWidth   0.4 mm
+/LiDiffusionCode/geometry/setDetectorDepth   0.1 mm
+/LiDiffusionCode/geometry/setDetectorRadious 5.72 mm   #5.2x1.1
+
+/LiDiffusionCode/geometry/setTime 1.25 s
+/LiDiffusionCode/geometry/LiIonsPerPulse 1000000
+/LiDiffusionCode/geometry/setBeamOnTime 1 s
+/LiDiffusionCode/geometry/diagnostics 1
+/LiDiffusionCode/geometry/setFilename TiO2
+/LiDiffusionCode/geometry/setSRIMfilename TiO2_10keV
+/LiDiffusionCode/geometry/setDiffusionRate 1e-11
+/LiDiffusionCode/geometry/setBoundaryCondition reflective
+
+
+
+/LiDiffusionCode/geometry/update
+
+/run/beamOn 10000000
+
+
+/LiDiffusionCode/geometry/setSampleWidth     7 mm
+/LiDiffusionCode/geometry/setSampleDepth     500 um
+/LiDiffusionCode/geometry/setSubstrateWidth  7 mm
+/LiDiffusionCode/geometry/setSubstrateDepth  500 um
+/LiDiffusionCode/geometry/setDetectorWidth   0.4 mm
+/LiDiffusionCode/geometry/setDetectorDepth   0.1 mm
+/LiDiffusionCode/geometry/setDetectorRadious 5.72 mm   #5.2x1.1
+
+/LiDiffusionCode/geometry/setTime 1.5 s
+/LiDiffusionCode/geometry/LiIonsPerPulse 1000000
+/LiDiffusionCode/geometry/setBeamOnTime 1 s
+/LiDiffusionCode/geometry/diagnostics 1
+/LiDiffusionCode/geometry/setFilename TiO2
+/LiDiffusionCode/geometry/setSRIMfilename TiO2_10keV
+/LiDiffusionCode/geometry/setDiffusionRate 1e-11
+/LiDiffusionCode/geometry/setBoundaryCondition reflective
+
+
+
+/LiDiffusionCode/geometry/update
+
+/run/beamOn 10000000
+
+
+/LiDiffusionCode/geometry/setSampleWidth     7 mm
+/LiDiffusionCode/geometry/setSampleDepth     500 um
+/LiDiffusionCode/geometry/setSubstrateWidth  7 mm
+/LiDiffusionCode/geometry/setSubstrateDepth  500 um
+/LiDiffusionCode/geometry/setDetectorWidth   0.4 mm
+/LiDiffusionCode/geometry/setDetectorDepth   0.1 mm
+/LiDiffusionCode/geometry/setDetectorRadious 5.72 mm   #5.2x1.1
+
+/LiDiffusionCode/geometry/setTime 1.75 s
+/LiDiffusionCode/geometry/LiIonsPerPulse 1000000
+/LiDiffusionCode/geometry/setBeamOnTime 1 s
+/LiDiffusionCode/geometry/diagnostics 1
+/LiDiffusionCode/geometry/setFilename TiO2
+/LiDiffusionCode/geometry/setSRIMfilename TiO2_10keV
+/LiDiffusionCode/geometry/setDiffusionRate 1e-11
+/LiDiffusionCode/geometry/setBoundaryCondition reflective
+
+
+
+/LiDiffusionCode/geometry/update
+
+/run/beamOn 10000000
+
+
+/LiDiffusionCode/geometry/setSampleWidth     7 mm
+/LiDiffusionCode/geometry/setSampleDepth     500 um
+/LiDiffusionCode/geometry/setSubstrateWidth  7 mm
+/LiDiffusionCode/geometry/setSubstrateDepth  500 um
+/LiDiffusionCode/geometry/setDetectorWidth   0.4 mm
+/LiDiffusionCode/geometry/setDetectorDepth   0.1 mm
+/LiDiffusionCode/geometry/setDetectorRadious 5.72 mm   #5.2x1.1
+
+/LiDiffusionCode/geometry/setTime 2 s
+/LiDiffusionCode/geometry/LiIonsPerPulse 1000000
+/LiDiffusionCode/geometry/setBeamOnTime 1 s
+/LiDiffusionCode/geometry/diagnostics 1
+/LiDiffusionCode/geometry/setFilename TiO2
+/LiDiffusionCode/geometry/setSRIMfilename TiO2_10keV
+/LiDiffusionCode/geometry/setDiffusionRate 1e-11
+/LiDiffusionCode/geometry/setBoundaryCondition reflective
+
+
+
+/LiDiffusionCode/geometry/update
+
+/run/beamOn 10000000
+
+
+/LiDiffusionCode/geometry/setSampleWidth     7 mm
+/LiDiffusionCode/geometry/setSampleDepth     500 um
+/LiDiffusionCode/geometry/setSubstrateWidth  7 mm
+/LiDiffusionCode/geometry/setSubstrateDepth  500 um
+/LiDiffusionCode/geometry/setDetectorWidth   0.4 mm
+/LiDiffusionCode/geometry/setDetectorDepth   0.1 mm
+/LiDiffusionCode/geometry/setDetectorRadious 5.72 mm   #5.2x1.1
+
+/LiDiffusionCode/geometry/setTime 3 s
+/LiDiffusionCode/geometry/LiIonsPerPulse 1000000
+/LiDiffusionCode/geometry/setBeamOnTime 1 s
+/LiDiffusionCode/geometry/diagnostics 1
+/LiDiffusionCode/geometry/setFilename TiO2
+/LiDiffusionCode/geometry/setSRIMfilename TiO2_10keV
+/LiDiffusionCode/geometry/setDiffusionRate 1e-11
+/LiDiffusionCode/geometry/setBoundaryCondition reflective
+
+
+
+/LiDiffusionCode/geometry/update
+
+/run/beamOn 10000000
+
+
+/LiDiffusionCode/geometry/setSampleWidth     7 mm
+/LiDiffusionCode/geometry/setSampleDepth     500 um
+/LiDiffusionCode/geometry/setSubstrateWidth  7 mm
+/LiDiffusionCode/geometry/setSubstrateDepth  500 um
+/LiDiffusionCode/geometry/setDetectorWidth   0.4 mm
+/LiDiffusionCode/geometry/setDetectorDepth   0.1 mm
+/LiDiffusionCode/geometry/setDetectorRadious 5.72 mm   #5.2x1.1
+
+/LiDiffusionCode/geometry/setTime 4 s
+/LiDiffusionCode/geometry/LiIonsPerPulse 1000000
+/LiDiffusionCode/geometry/setBeamOnTime 1 s
+/LiDiffusionCode/geometry/diagnostics 1
+/LiDiffusionCode/geometry/setFilename TiO2
+/LiDiffusionCode/geometry/setSRIMfilename TiO2_10keV
+/LiDiffusionCode/geometry/setDiffusionRate 1e-11
+/LiDiffusionCode/geometry/setBoundaryCondition reflective
+
+
+
+/LiDiffusionCode/geometry/update
+
+/run/beamOn 10000000
+
+
+/LiDiffusionCode/geometry/setSampleWidth     7 mm
+/LiDiffusionCode/geometry/setSampleDepth     500 um
+/LiDiffusionCode/geometry/setSubstrateWidth  7 mm
+/LiDiffusionCode/geometry/setSubstrateDepth  500 um
+/LiDiffusionCode/geometry/setDetectorWidth   0.4 mm
+/LiDiffusionCode/geometry/setDetectorDepth   0.1 mm
+/LiDiffusionCode/geometry/setDetectorRadious 5.72 mm   #5.2x1.1
+
+/LiDiffusionCode/geometry/setTime 5 s
+/LiDiffusionCode/geometry/LiIonsPerPulse 1000000
+/LiDiffusionCode/geometry/setBeamOnTime 1 s
+/LiDiffusionCode/geometry/diagnostics 1
+/LiDiffusionCode/geometry/setFilename TiO2
+/LiDiffusionCode/geometry/setSRIMfilename TiO2_10keV
+/LiDiffusionCode/geometry/setDiffusionRate 1e-11
+/LiDiffusionCode/geometry/setBoundaryCondition reflective
+
+
+
+/LiDiffusionCode/geometry/update
+
+/run/beamOn 10000000
+
+
+
